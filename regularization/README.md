@@ -1,7 +1,7 @@
 # Variational quantum algorithms: robustness via regularization
 
 Within this experiment, we verify that our theoretical framework
-can be used to successfully enforce robustness of quantum
+can be used to successfully improve robustness of quantum
 circuits in the context of VQAs via regularization.
 To do so, we employ a simple regression task. 
 That is, we are interested in learning a regression

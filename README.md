@@ -26,5 +26,5 @@ Here, we validate our theoretical findings in an implementation on the
 - Directory: `regularization`
 
 In this experiment, we verify that our theoretical framework
-can be used to successfully enforce robustness of quantum
+can be used to successfully improve robustness of quantum
 circuits in the context of VQAs via regularization.
