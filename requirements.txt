@@ -1,0 +1,6 @@
+numpy==1.23.5
+scipy==1.10.1
+matplotlib==3.7.0
+qiskit==0.41.1
+bqskit[ext]==1.0.4
+dask[dataframe]==2022.12.1
