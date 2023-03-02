@@ -1,7 +1,7 @@
 # Robustness of quantum algorithms against coherent control errors
 This repository contains the source code for the paper 
 "Robustness of quantum algorithms against coherent control errors" 
-by Julian Berberich, Daniel Fink and Christian Holm [[arXiv](placeholder)].
+by Julian Berberich, Daniel Fink and Christian Holm [[arXiv:2303.00618](https://arxiv.org/abs/2303.00618)].
 
 The source code uses Python 3.10. 
 All dependencies can be installed using the `requirements.txt` file.
